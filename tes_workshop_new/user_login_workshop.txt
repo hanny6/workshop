@@ -1,0 +1,10 @@
+Login anak
+email anak : hanny@anak.com
+password anak : hanny
+
+email anak :lutfy@gmail.com
+password anak : lutfy
+
+Login admin
+email admin : admin1@gmail.com
+password admin : admin1
